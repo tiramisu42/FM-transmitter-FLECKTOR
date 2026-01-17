@@ -2,7 +2,6 @@ This ESP32 C3 supermini device uses the SI4713 module to intercept the frequency
 Данное устройство на esp32 c3 supermini используе модуль si4713 для перехвата часоты FM 87-107Mhz
 
 The range is +-10 meters when the antenna is set up correctly
-
 радиус действия при правильной настройке антены +-10 метров
 
 https://github.com/user-attachments/assets/d8f430a8-440c-4232-9ef3-42ddd3742467
