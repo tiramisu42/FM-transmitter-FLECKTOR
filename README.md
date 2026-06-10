@@ -7,9 +7,9 @@
 > радиус действия при правильной настройке антены +-10 метров
 
 
-https://github.com/user-attachments/assets/d8f430a8-440c-4232-9ef3-42ddd3742467
+## https://github.com/user-attachments/assets/d8f430a8-440c-4232-9ef3-42ddd3742467
 
-<img width="941" height="460" alt="схема" src="https://github.com/user-attachments/assets/553a5e3e-6dd0-48b0-8a5c-35833966c6b4" />
+## <img width="941" height="460" alt="схема" src="https://github.com/user-attachments/assets/553a5e3e-6dd0-48b0-8a5c-35833966c6b4" />
 
 
 
