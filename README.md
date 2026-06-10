@@ -6,7 +6,7 @@
 > Данное устройство на esp32 c3 supermini используе модуль si4713 для перехвата часоты FM 87-107Mhz  
 > радиус действия при правильной настройке антены +-10 метров
 
-
+## PREVIEW
 > https://github.com/user-attachments/assets/d8f430a8-440c-4232-9ef3-42ddd3742467
 
 ## <img width="941" height="460" alt="схема" src="https://github.com/user-attachments/assets/553a5e3e-6dd0-48b0-8a5c-35833966c6b4" />
